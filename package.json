@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosseinbeig/background-gradient-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosseinbeig/background-gradient-/issues"
+  },
+  "homepage": "https://github.com/hosseinbeig/background-gradient-#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
